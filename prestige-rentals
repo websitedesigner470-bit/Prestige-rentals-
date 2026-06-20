@@ -1,0 +1,17 @@
+# 1. Create the project using Next.js
+npx create-next-app@latest prestige-rentals
+
+# 2. When prompted, select these settings:
+# Would you like to use TypeScript? Yes
+# Would you like to use ESLint? Yes
+# Would you like to use Tailwind CSS? Yes
+# Would you like to use `src/` directory? No (Keep it simple)
+# Would you like to use App Router? Yes (Recommended)
+# Would you like to customize the default import alias (@/*)? Yes
+
+# 3. Enter the folder
+cd prestige-rentals
+
+# 4. Install the animation library we need
+npm install framer-motion
+                                                        
